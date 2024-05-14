@@ -1,0 +1,31 @@
+
+body {
+    display: flex;
+    flex-direction: column;
+    margin: 0;
+}
+
+header {
+    display:flex;
+    font-style: 'Roboto', sans-serif;
+    font-size: 24px;
+    justify-content: space-between;
+    background-color: #1f2937;
+    color: #f9faf8;
+}
+
+.one {
+    display: flex;
+    background-color: #1f2937;
+}
+
+links {
+    display: flex;
+}
+
+a {
+    text-decoration: none;
+    color: #e5e7eb;
+    font-size: 18px;
+    gap: 24px;
+}
